@@ -1,0 +1,7 @@
+{
+  "name": "Senior Engineer Yellow Bank Agent",
+  "description": "A high-fidelity banking agent simulation for Yellow Bank, featuring voice input, multi-step authentication, and advanced error handling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
